@@ -30,3 +30,11 @@ To put it together, the code in ex4.m shows complete process of training a Neura
 - Implement back-propagation to compute partial derivative of J(theta), which is the gradient used for gradient descent algorithm;
 - Regularize the gradient of J(theta);
 - Start training by fmincg.
+
+## Week 6. Neural Networks Practical Stuff
+
+This week, we implement some practical code for neural network.
+
+## Week 7. Support Vector Machine
+
+Here simply implements an spam email classifier by SVM.
