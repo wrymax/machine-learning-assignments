@@ -38,3 +38,15 @@ This week, we implement some practical code for neural network.
 ## Week 7. Support Vector Machine
 
 Here simply implements an spam email classifier by SVM.
+
+## Week 8. K-Means and PCA
+
+Here simply implements K-means and PCA algorithms.
+
+## Week 9. Recommender Systems
+
+- Anomaly detection
+- Recommender System 
+
+
+
